@@ -22,6 +22,9 @@ export default function AnalyticsChart({ data, metric, color, name }) {
           type="monotone"
           dataKey={metric}
           stroke={color}
+          strokeWidth={3} // thicker, more modern line
+          dot={{ r: 4 }}
+          activeDot={{ r: 6 }}
           name={name}
         />{" "}
       </LineChart>
