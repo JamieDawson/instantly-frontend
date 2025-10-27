@@ -1,7 +1,8 @@
 # Instantly Frontend
 
 This is the **frontend** for the Instantly project, built with **React**, **Vite**, and **Tailwind CSS**.  
-It provides a fast and modern development experience with built-in linting, charting, and API integration.
+It demonstrates how developers and marketing teams can collaborate to analyze campaign performance.  
+This project can also serve as a **starter template** for developers who want to quickly set up and build upon a modern React + Vite frontend.
 
 ---
 
