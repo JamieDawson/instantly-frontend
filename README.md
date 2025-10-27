@@ -5,6 +5,8 @@ It demonstrates how developers and marketing teams can collaborate to analyze ca
 This project can also serve as a **starter template** for developers who want to quickly set up and build upon a modern React + Vite frontend.
 To see the backend code, [Click here](https://github.com/JamieDawson/instantly-backend)
 
+Watch my video demo of this app [by clicking here](https://www.youtube.com/watch?v=K1tC9SbgHvg)
+
 ---
 
 ## 🛠️ Tech Stack
